@@ -1,5 +1,5 @@
-![download](https://user-images.githubusercontent.com/57290967/143802919-55adbdde-f068-4e72-9528-a7bd2cc7f957.png)
-<h3 align="center">An undergrad web enthusiast</h3>
+<h1>Hi I'm Mohit</h1>
+<h4>an undergrad web enthusiast </h4>
 
 - 🌱 I’m currently learning **ReactJs**
 
